@@ -1,5 +1,44 @@
 [
     {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 12195000688,
+        "Release Date": "Jul 12, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "3",
+        "Widest Release": 688,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 9298000727,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "5",
+        "Widest Release": 727,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 8704000801,
+        "Release Date": "Jul 10, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "6",
+        "Widest Release": 801,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
         "Distributor": "Walt Disney PicturesSee full company information",
         "Opening": 17604728,
         "Release Date": "Jun 20, 2024",
@@ -8,70 +47,7 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "182",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 29855385,
-        "Release Date": "Jun 13, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "253",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
-        "Opening": 10044276,
-        "Release Date": "Jun 21, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "172",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
-        "Opening": 11359818650,
-        "Release Date": "Jun 19, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "192",
-        "Widest Release": 660,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 14363050685,
-        "Release Date": "Jun 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "243",
-        "Widest Release": 719,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
-        "Opening": 13678506569,
-        "Release Date": "Jun 19, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "192",
-        "Widest Release": 578,
+        "In Release": "263",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -83,33 +59,8 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "263",
+        "In Release": "344",
         "Widest Release": 2619,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
-        "Opening": 7166734376,
-        "Release Date": "Jun 21, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "172",
-        "Widest Release": 377,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 8882373,
-        "Release Date": "Jun 12, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "263",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -121,33 +72,95 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "253",
+        "In Release": "334",
         "Widest Release": 624,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 239709371,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 71,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
         "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 2325229,
+        "Opening": 29855385,
         "Release Date": "Jun 13, 2024",
         "MPAA": "PG",
         "Running Time": 5760,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
+        "In Release": "334",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
+        "Opening": 10044276,
+        "Release Date": "Jun 21, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
         "In Release": "253",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 1874574,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "5",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
+        "Opening": 13678506569,
+        "Release Date": "Jun 20, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "263",
+        "Widest Release": 578,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney Studios Sony Pictures Releasing (WDSSPR)See full company information",
+        "Opening": 1800000,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "5",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney Studios Motion PicturesSee full company information",
+        "Opening": 7166734376,
+        "Release Date": "Jun 21, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "253",
+        "Widest Release": 377,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 122800087,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "5",
+        "Widest Release": 87,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -159,56 +172,7 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "253",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 4966385226,
-        "Release Date": "Jun 13, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "253",
-        "Widest Release": 228,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Paramount Pictures InternationalSee full company information",
-        "Opening": 1700000634,
-        "Release Date": "Jun 26, 2024",
-        "MPAA": "PG-13",
-        "Running Time": 5940,
-        "Genres": [
-            "Drama\n    \n        Horror\n    \n        Sci-Fi\n    \n        Thriller"
-        ],
-        "In Release": "121",
-        "Widest Release": 634,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "n/a",
-        "Release Date": "Jun 20, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "182",
-        "Widest Release": 154,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Avex EntertainmentSee full company information",
-        "Opening": 1408928,
-        "Release Date": "Jun 28, 2024",
-        "Running Time": 3720,
-        "Genres": [
-            "Animation\n    \n        Drama"
-        ],
-        "In Release": "101",
+        "In Release": "334",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -220,17 +184,45 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "192",
+        "In Release": "273",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
         "Distributor": "Walt Disney PicturesSee full company information",
-        "Release Date": "Nov 7, 2024",
+        "Opening": 2325229,
+        "Release Date": "Jun 13, 2024",
         "MPAA": "PG",
         "Running Time": 5760,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
+        "In Release": "334",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 779000492,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG-13",
+        "Running Time": 7020,
+        "Genres": [
+            "Action\n    \n        Adventure\n    \n        Thriller"
+        ],
+        "In Release": "5",
+        "Widest Release": 492,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 772000625,
+        "Release Date": "Jul 10, 2024",
+        "MPAA": "PG-13",
+        "Running Time": 7020,
+        "Genres": [
+            "Action\n    \n        Adventure\n    \n        Thriller"
+        ],
+        "In Release": "6",
+        "Widest Release": 625,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -242,45 +234,8 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "111",
-        "Widest Release": 109,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 6497754,
-        "Release Date": "Jun 12, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "263",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 98239539,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 39,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 623287,
-        "Release Date": "Jun 12, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "263",
+        "In Release": "192",
+        "Widest Release": 113,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -292,20 +247,45 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "263",
+        "In Release": "344",
         "Widest Release": 417,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 14, 2024",
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 4705080,
+        "Release Date": "Jun 13, 2024",
         "MPAA": "PG",
         "Running Time": 5760,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "243",
-        "Widest Release": 530,
+        "In Release": "334",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 623287,
+        "Release Date": "Jun 12, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "344",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 4966385226,
+        "Release Date": "Jun 13, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "334",
+        "Widest Release": 228,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -317,58 +297,31 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "253",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Paramount Pictures InternationalSee full company information",
-        "Opening": 750000149,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG-13",
-        "Running Time": 5940,
-        "Genres": [
-            "Drama\n    \n        Horror\n    \n        Sci-Fi\n    \n        Thriller"
-        ],
-        "In Release": "111",
-        "Widest Release": 149,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Paramount Pictures InternationalSee full company information",
-        "Opening": 670000262,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG-13",
-        "Running Time": 5940,
-        "Genres": [
-            "Drama\n    \n        Horror\n    \n        Sci-Fi\n    \n        Thriller"
-        ],
-        "In Release": "111",
-        "Widest Release": 262,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 61522272,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 72,
+        "In Release": "334",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
         "Distributor": "Walt Disney PicturesSee full company information",
-        "Opening": 1016546,
+        "Opening": 6497754,
         "Release Date": "Jun 12, 2024",
         "MPAA": "PG",
         "Running Time": 5760,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "263",
+        "In Release": "344",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 231000,
+        "Release Date": "Jul 11, 2024",
+        "MPAA": "PG-13",
+        "Running Time": 7020,
+        "Genres": [
+            "Action\n    \n        Adventure\n    \n        Thriller"
+        ],
+        "In Release": "5",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -380,33 +333,7 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "253",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 536697118,
-        "Release Date": "Jun 28, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "101",
-        "Widest Release": 118,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 52688857,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 57,
+        "In Release": "334",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -418,45 +345,8 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "243",
-        "Widest Release": 150,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Galaxy Studio",
-        "Opening": 7851016,
-        "Release Date": "Jun 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "243",
-        "Widest Release": 5529,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "\u0418\u043d\u043e\u0435\u043a\u0438\u043d\u043e/\u0412\u043e\u043b\u044c\u0433\u0430",
-        "Opening": 706117,
-        "Release Date": "Jun 19, 2024",
-        "Running Time": 3660,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "192",
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 1161474123,
-        "Release Date": "Jun 6, 2024",
-        "MPAA": "R",
-        "Running Time": 6900,
-        "Genres": [
-            "Action\n    \n        Adventure\n    \n        Comedy\n    \n        Crime\n    \n        Thriller"
-        ],
         "In Release": "324",
-        "Widest Release": 125,
+        "Widest Release": 150,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -468,170 +358,32 @@
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "243",
+        "In Release": "324",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 397116144,
-        "Release Date": "Jun 28, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "101",
-        "Widest Release": 144,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Forum HungarySee full company information",
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 856903,
         "Release Date": "Jun 13, 2024",
         "MPAA": "PG",
         "Running Time": 5760,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "253",
-        "Widest Release": 90,
+        "In Release": "334",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 13, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "253",
-        "Widest Release": 79,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 29127422,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 22,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "FORUM FILM LTD.",
-        "Release Date": "Jun 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "243",
-        "Widest Release": 218,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 20, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "182",
-        "Widest Release": 33,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 129578180,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG-13",
-        "Running Time": 5940,
-        "Genres": [
-            "Drama\n    \n        Horror\n    \n        Sci-Fi\n    \n        Thriller"
-        ],
-        "In Release": "111",
-        "Widest Release": 180,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Forum FilmSee full company information",
-        "Release Date": "Jun 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "243",
-        "Widest Release": 86,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Taramount",
-        "Opening": 10594597,
-        "Release Date": "Jun 27, 2024",
-        "MPAA": "PG",
-        "Running Time": 5700,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
-        ],
-        "In Release": "111",
-        "Widest Release": 97,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "WDI",
-        "Opening": 150057100,
-        "Release Date": "Jun 13, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "253",
-        "Widest Release": 100,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Sam FilmSee full company information",
-        "Opening": 8674517,
-        "Release Date": "Jun 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "243",
-        "Widest Release": 17,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "WDI",
-        "Opening": 5778427,
-        "Release Date": "Jun 13, 2024",
-        "MPAA": "PG",
-        "Running Time": 5760,
-        "Genres": [
-            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
-        ],
-        "In Release": "253",
-        "Widest Release": 36,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 20, 2024",
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 15313765,
+        "Release Date": "Jul 4, 2024",
         "MPAA": "R",
-        "Running Time": 6960,
+        "Running Time": 9840,
         "Genres": [
-            "Crime\n    \n        Drama"
+            "Comedy\n    \n        Drama"
         ],
-        "In Release": "182",
-        "Widest Release": 33,
+        "In Release": "121",
+        "Widest Release": 65,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -643,20 +395,337 @@
         "Genres": [
             "Action\n    \n        Adventure\n    \n        Drama\n    \n        Sci-Fi\n    \n        Thriller"
         ],
-        "In Release": "618",
+        "In Release": "699",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 32161,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "R",
+        "Running Time": 9840,
+        "Genres": [
+            "Comedy\n    \n        Drama"
+        ],
+        "In Release": "111",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Walt Disney PicturesSee full company information",
+        "Opening": 1740538,
+        "Release Date": "May 10, 2024",
+        "MPAA": "PG-13",
+        "Running Time": 8700,
+        "Genres": [
+            "Action\n    \n        Adventure\n    \n        Drama\n    \n        Sci-Fi\n    \n        Thriller"
+        ],
+        "In Release": "679",
         "IMDbPro": "See more details at IMDbPro"
     },
     {
         "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 11800061,
+        "Opening": 200086961,
+        "Release Date": "Jul 4, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "121",
+        "Widest Release": 61,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 183298214,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "111",
+        "Widest Release": 14,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 813236501,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "111",
+        "Widest Release": 501,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 728658204,
+        "Release Date": "Jul 4, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "121",
+        "Widest Release": 204,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 56919775,
+        "Release Date": "Jul 4, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "121",
+        "Widest Release": 75,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "\u0418\u043d\u043e\u0435\u043a\u0438\u043d\u043e/\u0412\u043e\u043b\u044c\u0433\u0430",
+        "Opening": 706117,
+        "Release Date": "Jun 19, 2024",
+        "Running Time": 3660,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "273",
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Ro Image 2000See full company information",
+        "Opening": 326730203,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "111",
+        "Widest Release": 203,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 31374792,
+        "Release Date": "Jul 4, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "121",
+        "Widest Release": 92,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 397116144,
+        "Release Date": "Jun 28, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "182",
+        "Widest Release": 159,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FORUM FILM LTD.",
+        "Opening": 21418898,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "111",
+        "Widest Release": 98,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 173688371,
+        "Release Date": "Jul 5, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "111",
+        "Widest Release": 371,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 13250693,
+        "Release Date": "Jul 4, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "121",
+        "Widest Release": 93,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "MCF",
+        "Opening": 204773118,
+        "Release Date": "Jun 13, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "334",
+        "Widest Release": 118,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Release Date": "Jun 28, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "182",
+        "Widest Release": 20,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "WDI",
+        "Opening": 5778427,
+        "Release Date": "Jun 13, 2024",
+        "MPAA": "PG",
+        "Running Time": 5760,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Drama\n    \n        Family\n    \n        Fantasy"
+        ],
+        "In Release": "334",
+        "Widest Release": 36,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "LEV Cinemas",
+        "Release Date": "Jun 20, 2024",
+        "MPAA": "R",
+        "Running Time": 7260,
+        "Genres": [
+            "Drama\n    \n        History"
+        ],
+        "In Release": "263",
+        "Widest Release": 24,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "VLG Film",
+        "Opening": 189317,
+        "Release Date": "Jun 21, 2024",
+        "MPAA": "R",
+        "Running Time": 7260,
+        "Genres": [
+            "Drama\n    \n        History"
+        ],
+        "In Release": "253",
+        "Widest Release": 17,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 52688857,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "192",
+        "Widest Release": 57,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Opening": 29127422,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "192",
+        "Widest Release": 22,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
+        "Release Date": "Jun 20, 2024",
+        "MPAA": "PG",
+        "Running Time": 5640,
+        "Genres": [
+            "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
+        ],
+        "In Release": "263",
+        "Widest Release": 33,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FalconSee full company information",
+        "Opening": 3995444,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "192",
+        "Widest Release": 44,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Universal Pictures International (UPI)See full company information",
         "Release Date": "Jun 20, 2024",
         "MPAA": "R",
         "Running Time": 6960,
         "Genres": [
             "Crime\n    \n        Drama"
         ],
-        "In Release": "182",
-        "Widest Release": 61,
+        "In Release": "263",
+        "Widest Release": 48,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "Tanweer FilmsSee full company information",
+        "Opening": 2354537,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "192",
+        "Widest Release": 37,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FalconSee full company information",
+        "Opening": 1818713,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "192",
+        "Widest Release": 13,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -664,11 +733,11 @@
         "Opening": 141441,
         "Release Date": "Jun 28, 2024",
         "MPAA": "PG",
-        "Running Time": 5700,
+        "Running Time": 5640,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
         ],
-        "In Release": "101",
+        "In Release": "182",
         "Widest Release": 1,
         "IMDbPro": "See more details at IMDbPro"
     },
@@ -681,7 +750,7 @@
         "Genres": [
             "Crime\n    \n        Drama"
         ],
-        "In Release": "111",
+        "In Release": "192",
         "Widest Release": 7,
         "IMDbPro": "See more details at IMDbPro"
     },
@@ -690,24 +759,12 @@
         "Opening": 110423,
         "Release Date": "Jun 27, 2024",
         "MPAA": "PG",
-        "Running Time": 5700,
+        "Running Time": 5640,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
         ],
-        "In Release": "111",
+        "In Release": "192",
         "Widest Release": 3,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 20, 2024",
-        "MPAA": "R",
-        "Running Time": 6960,
-        "Genres": [
-            "Crime\n    \n        Drama"
-        ],
-        "In Release": "182",
-        "Widest Release": 6,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -715,11 +772,11 @@
         "Opening": 53335,
         "Release Date": "Jun 27, 2024",
         "MPAA": "PG",
-        "Running Time": 5700,
+        "Running Time": 5640,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
         ],
-        "In Release": "111",
+        "In Release": "192",
         "Widest Release": 5,
         "IMDbPro": "See more details at IMDbPro"
     },
@@ -728,51 +785,90 @@
         "Opening": 46021,
         "Release Date": "Jun 28, 2024",
         "MPAA": "PG",
-        "Running Time": 5700,
+        "Running Time": 5640,
         "Genres": [
             "Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Sci-Fi"
         ],
-        "In Release": "101",
+        "In Release": "182",
         "Widest Release": 1,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Opening": 1712171109,
-        "Release Date": "Mar 14, 2024",
-        "MPAA": "PG",
-        "Running Time": 5640,
+        "Distributor": "FalconSee full company information",
+        "Opening": 444110,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
         "Genres": [
-            "Action\n    \n        Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Fantasy"
+            "Drama\n    \n        Western"
         ],
-        "In Release": "11616",
-        "Widest Release": 111,
+        "In Release": "192",
+        "Widest Release": 10,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "VLG Film",
-        "Opening": 189317,
-        "Release Date": "Jun 21, 2024",
+        "Distributor": "FalconSee full company information",
+        "Opening": 34606,
+        "Release Date": "Jun 27, 2024",
         "MPAA": "R",
-        "Running Time": 7260,
+        "Running Time": 10860,
         "Genres": [
-            "Drama\n    \n        History"
+            "Drama\n    \n        Western"
         ],
-        "In Release": "172",
-        "Widest Release": 17,
+        "In Release": "192",
+        "Widest Release": 6,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "VLG Film",
-        "Opening": 1073919,
-        "Release Date": "Jun 21, 2024",
+        "Distributor": "FalconSee full company information",
+        "Opening": 25768,
+        "Release Date": "Jun 27, 2024",
         "MPAA": "R",
-        "Running Time": 7260,
+        "Running Time": 10860,
         "Genres": [
-            "Drama\n    \n        History"
+            "Drama\n    \n        Western"
         ],
-        "In Release": "172",
-        "Widest Release": 19,
+        "In Release": "192",
+        "Widest Release": 8,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FalconSee full company information",
+        "Opening": 178112,
+        "Release Date": "Jun 26, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "202",
+        "Widest Release": 12,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FalconSee full company information",
+        "Opening": 148511,
+        "Release Date": "Jun 28, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "182",
+        "Widest Release": 11,
+        "IMDbPro": "See more details at IMDbPro"
+    },
+    {
+        "Distributor": "FalconSee full company information",
+        "Opening": 140411,
+        "Release Date": "Jun 27, 2024",
+        "MPAA": "R",
+        "Running Time": 10860,
+        "Genres": [
+            "Drama\n    \n        Western"
+        ],
+        "In Release": "192",
+        "Widest Release": 11,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -783,20 +879,8 @@
         "Genres": [
             "Crime\n    \n        Drama"
         ],
-        "In Release": "182",
+        "In Release": "263",
         "Widest Release": 3,
-        "IMDbPro": "See more details at IMDbPro"
-    },
-    {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 19, 2024",
-        "MPAA": "R",
-        "Running Time": 6960,
-        "Genres": [
-            "Crime\n    \n        Drama"
-        ],
-        "In Release": "192",
-        "Widest Release": 7,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -808,19 +892,21 @@
         "Genres": [
             "Action\n    \n        Comedy\n    \n        Drama\n    \n        Romance"
         ],
-        "In Release": "7310",
+        "In Release": "8111",
         "Widest Release": 14,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
-        "Distributor": "Universal Pictures International (UPI)See full company information",
-        "Release Date": "Jun 20, 2024",
+        "Distributor": "FalconSee full company information",
+        "Opening": 6464,
+        "Release Date": "Jun 27, 2024",
         "MPAA": "R",
-        "Running Time": 6960,
+        "Running Time": 10860,
         "Genres": [
-            "Crime\n    \n        Drama"
+            "Drama\n    \n        Western"
         ],
-        "In Release": "182",
+        "In Release": "192",
+        "Widest Release": 4,
         "IMDbPro": "See more details at IMDbPro"
     },
     {
@@ -832,7 +918,7 @@
         "Genres": [
             "Action\n    \n        Adventure\n    \n        Animation\n    \n        Comedy\n    \n        Family\n    \n        Fantasy"
         ],
-        "In Release": "12217",
+        "In Release": "13018",
         "Widest Release": 50,
         "IMDbPro": "See more details at IMDbPro"
     },
@@ -845,7 +931,7 @@
         "Genres": [
             "Action\n    \n        Comedy\n    \n        Drama\n    \n        Romance"
         ],
-        "In Release": "669",
+        "In Release": "7410",
         "Widest Release": 7,
         "IMDbPro": "See more details at IMDbPro"
     }
